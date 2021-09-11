@@ -1,4 +1,10 @@
 body {
     background-color: rgb(133, 192, 228);
-
+    background-image: url('back-blue-1.jpg');
+    background-size:cover ;
+    background-attachment: fixed;
+    color: #fff;
+}
+a {
+    color: #fff;
 }
